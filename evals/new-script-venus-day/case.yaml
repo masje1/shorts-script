@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: new-script-venus-day
+expected_outcome: |
+  A Script.txt in the house format (title, blank line, one beat per line, numbers spelled out, correct 165 WPM footer, ending that loops into line 1 only if the seam reads naturally, or lands on its own, never a CTA) of about 40 s, with verified facts and sources reported.

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: new-script-voyager-power
+expected_outcome: |
+  A ~52-56 s Script.txt in Harper's style (claim-first line 1, a question with the answer withheld, one mechanism step per line, an everyday comparison for every big number, plain names kept, earned signposts, a late reframe) that uses research.md's figures, passes the checker with no FAILs, and does not reuse the phone-battery hook or the "here's how it works / here's the trick / so essentially" skeleton.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: check-voyager-draft
+expected_outcome: |
+  A rule-by-rule critique of the draft (hook (a concrete claim, up to about 20 words), ending (a loop only if it reads naturally; never a CTA), footer at 165 WPM, payoff, etc.) plus a revised Script.txt in the house format that keeps the user's facts and voice and passes the checker with no FAILs.
+context:
+  scaffold_script: place-files.sh

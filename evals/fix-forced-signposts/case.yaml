@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: fix-forced-signposts
+expected_outcome: |
+  The Ingenuity draft is edited, not rewritten: the forced "But here's the trick." signpost and the other formula phrasing are fixed or earned, the facts (one point eight kilos, blades five times faster) survive, and the revised Script.txt passes the checker with no FAILs. (The draft is test input only, not a claim that Harper rejected it.)
+context:
+  scaffold_script: place-files.sh
